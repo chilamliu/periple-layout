@@ -1,0 +1,17 @@
+.reward_body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #194E67;
+}
+
+.reward_menu {
+  margin: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  width: 100%;
+}
